@@ -1,0 +1,6 @@
+---
+Name: webpsitetree
+---
+SilverStripe\CMS\Model\SiteTree:
+  extensions:
+    - BiffBangPow\Extension\WebPExtension
