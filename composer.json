@@ -1,0 +1,28 @@
+{
+  "name": "biffbangpow/silverstripe-extensionmodule-template",
+  "description": "A basic skeleton for a Silverstripe 4 extension module",
+  "type": "silverstripe-vendormodule",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Tim Burt",
+      "email": "tim@biffbangpow.com"
+    },
+    {
+      "name": "James Heathcote",
+      "email": "james.h@biffbangpow.com"
+    }
+  ],
+  "require": {
+    "silverstripe/vendor-plugin": "^1.0",
+    "silverstripe/cms": "^4"
+  },
+  "autoload": {
+    "psr-4": {
+      "BiffBangPow\\Extension\\": "src/"
+    }
+  },
+  "extra": {
+  }
+}
