@@ -1,6 +1,6 @@
 {
-  "name": "biffbangpow/silverstripe-extensionmodule-template",
-  "description": "A basic skeleton for a Silverstripe 4 extension module",
+  "name": "biffbangpow/silverstripe-webp-detection",
+  "description": "Simple detection of browser webp capabilities",
   "type": "silverstripe-vendormodule",
   "minimum-stability": "dev",
   "license": "proprietary",
