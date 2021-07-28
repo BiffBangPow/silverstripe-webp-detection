@@ -16,7 +16,8 @@
   ],
   "require": {
     "silverstripe/vendor-plugin": "^1.0",
-    "silverstripe/cms": "^4"
+    "silverstripe/cms": "^4",
+    "tractorcow/silverstripe-image-formatter": "^1.0"
   },
   "autoload": {
     "psr-4": {
